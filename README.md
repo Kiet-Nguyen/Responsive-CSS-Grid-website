@@ -4,5 +4,5 @@ Live demo for this project - [Live demo](https://kiet-nguyen.github.io/Responsiv
 ## Description
 This project was implemented with HTML5, CSS Grid and SASS.
 
-###### Countries
-![Countries](https://media.giphy.com/media/6IcLzZPXvlETYSJPi3/giphy.gif)
+###### CSS Grid
+![CSS Grid](https://media.giphy.com/media/6IcLzZPXvlETYSJPi3/giphy.gif)
